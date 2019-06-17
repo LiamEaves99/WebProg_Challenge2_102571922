@@ -1,0 +1,42 @@
+.cls_Main{
+    background-color: rgb(204, 204, 204);
+    border: 1px;
+    border-style: solid;
+    width: 50pc;
+    margin: auto;
+}
+.cls_Q {
+    margin: 0pc;
+    padding: 10px;
+    border-bottom: 1px dotted;
+    border-color:  rgb(0, 0, 0);
+    text-align: center;
+}
+.a {
+    border-bottom: 0px dotted;
+    width: 50pc;
+    margin: auto;
+}
+.Answered{
+    width: 51%;
+    height: 25px;
+    display: inline-block;
+    background-color: rgb(110, 110, 110) ;
+    border-style: solid;
+    border-width: 1px;
+    border-color:  rgb(0, 0, 0);
+    margin: 5px;
+}
+.cls_btn{
+    width: 51%;
+    height: 25px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255) ;
+    border-style: solid;
+    border-width: 1px;
+    border-color:  rgb(0, 0, 0);
+    margin: 5px;
+}
+.cls_MR{
+    margin: 0px;
+}
